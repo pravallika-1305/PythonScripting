@@ -42,7 +42,7 @@ def sendMail():
     
     #server.ehlo()
 
-    server.login('nmamatha1808@gmail.com', "MAMATHAMAMMU")
+    server.login('nmamatha1808@gmail.com', "PASSWORD")
     
     subject = "Price fell down!!!"
     body = 'Check the amazon link URL = https://www.amazon.in/dp/B07YRSDJY2/ref=cm_sw_r_wa_apa_i_KvkxFbEYG6PVS'
